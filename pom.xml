@@ -29,4 +29,10 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+    <repositories>
+        <repository>
+            <id>exo-public</id>
+            <url>https://repository.exoplatform.org/public/</url>
+        </repository>
+    </repositories>
 </project>
